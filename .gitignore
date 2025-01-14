@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Redis dump files
+dump.rdb
+
+# Virtual environment
+venv
